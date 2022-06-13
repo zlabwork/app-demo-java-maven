@@ -17,4 +17,6 @@ mvnw spring-boot:run
 
 https://spring.io/quickstart  
 https://spring.io/guides  
-http://c.biancheng.net/spring_boot
+http://c.biancheng.net/spring_boot  
+https://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure  
+https://github.com/mybatis/spring-boot-starter/tree/master/mybatis-spring-boot-samples/mybatis-spring-boot-sample-web  
