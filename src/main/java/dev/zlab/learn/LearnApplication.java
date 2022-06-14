@@ -1,4 +1,4 @@
-package com.zlab.learn;
+package dev.zlab.learn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.zlab.learn.securing;
+package dev.zlab.learn.securing;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

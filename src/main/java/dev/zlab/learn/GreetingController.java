@@ -1,4 +1,4 @@
-package com.zlab.learn;
+package dev.zlab.learn;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

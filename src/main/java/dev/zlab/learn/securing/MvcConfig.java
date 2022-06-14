@@ -1,4 +1,4 @@
-package com.zlab.learn.securing;
+package dev.zlab.learn.securing;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
